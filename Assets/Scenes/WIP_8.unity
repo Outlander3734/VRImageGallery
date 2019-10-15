@@ -1294,9 +1294,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Landscape
+  categoryTitle: {fileID: 660758418}
+  fullImage: {fileID: 29385515}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &391723901
 MonoBehaviour:
@@ -1760,9 +1760,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Landscape
+  categoryTitle: {fileID: 660758418}
+  fullImage: {fileID: 29385515}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &575935778
 MonoBehaviour:
@@ -5372,9 +5372,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Landscape
+  categoryTitle: {fileID: 660758418}
+  fullImage: {fileID: 29385515}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1388665276
 MonoBehaviour:
@@ -5649,9 +5649,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Landscape
+  categoryTitle: {fileID: 660758418}
+  fullImage: {fileID: 29385515}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1480956011
 MonoBehaviour:
@@ -7288,9 +7288,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Landscape
+  categoryTitle: {fileID: 660758418}
+  fullImage: {fileID: 29385515}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1670923208
 MonoBehaviour:
@@ -7474,9 +7474,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Sculptures
+  categoryTitle: {fileID: 1873617573}
+  fullImage: {fileID: 1566417427}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1764527567
 MonoBehaviour:
@@ -7914,9 +7914,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Sculptures
+  categoryTitle: {fileID: 1873617573}
+  fullImage: {fileID: 1566417427}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1941646865
 MonoBehaviour:
@@ -8205,9 +8205,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Sculptures
+  categoryTitle: {fileID: 1873617573}
+  fullImage: {fileID: 1566417427}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &1997442425
 MonoBehaviour:
@@ -8723,9 +8723,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Sculptures
+  categoryTitle: {fileID: 1873617573}
+  fullImage: {fileID: 1566417427}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &2103014232
 MonoBehaviour:
@@ -9119,9 +9119,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81b977c719b478140875f9669b53bf2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  categoryTitleName: Portraits
-  categoryTitle: {fileID: 160259735}
-  fullImage: {fileID: 53660974}
+  categoryTitleName: Sculptures
+  categoryTitle: {fileID: 1873617573}
+  fullImage: {fileID: 1566417427}
   highlightMaterial: {fileID: 2100000, guid: aec7493f22b26a442a7656b79add62ca, type: 2}
 --- !u!114 &2140270528
 MonoBehaviour:

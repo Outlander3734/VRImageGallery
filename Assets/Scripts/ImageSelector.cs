@@ -21,25 +21,18 @@ public class ImageSelector : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            OnPointerDown();
-        }
+
     }
 
-   public void OnPointerDown()
+   public void OnPointerDown(Image image)
     {
-        GraphicRaycaster gr = GetComponent<GraphicRaycaster>();
-        PointerEventData data = new PointerEventData(null);
-        data.position = Input.mousePosition;
-
-        List<RaycastResult> results = new List<RaycastResult>();
-        gr.Raycast(data, results);
-
-        if(results.Count > 0)
+        // set the new image based on what they clicked on
+        Image previewImage = image;
+        if (previewImage != null)
         {
-            // This means we got a hit
-            OnPreviewClick(results[0].gameObject);
+            fullImage.sprite = previewImage.sprite;
+            fullImage.type = Image.Type.Simple;
+            fullImage.preserveAspect = true;
         }
     }
     public void OnPreviewClick(GameObject thisButton)
